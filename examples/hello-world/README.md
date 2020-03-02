@@ -1,33 +1,13 @@
-# Hello World example
+# Learn React.js
 
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+This project to learn basic nextjs - and convert from class to functional component by myself
 
-## Deploy your own
+# What use will learn
 
-Deploy the example using [ZEIT Now](https://zeit.co/now):
+- Basic nextjs
+- SSR and CSR
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/next.js/tree/canary/examples/hello-world)
-
-## How to use
-
-### Using `create-next-app`
-
-Execute [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npm init next-app --example hello-world hello-world-app
-# or
-yarn create next-app --example hello-world hello-world-app
-```
-
-### Download manually
-
-Download the example:
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/hello-world
-cd hello-world
-```
+[Plurasight Course](https://app.pluralsight.com/courses/58da3797-c276-4cdb-90bc-e32eba133d6a/table-of-contents)
 
 Install it and run:
 
